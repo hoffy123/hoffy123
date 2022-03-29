@@ -2,6 +2,7 @@
 - 👋 Hi, I’m Student Name: Menachem Mendel Hoffman
 - 👋 Hi, I’m Student Number: 221100074
 - 👋 Hi, I’m Student Email: mmhoffman@deakin.edu.au
+- 👀 I’m interested in Embedded Systems an IoT devices such as Arduino Uno , Particle Argon and Raspberry Pi.
 - 👀 I’m interested in Web design
 - 👀 I’m interested in data scinece
 - 🌱 I’m currently learning computer scinece degree
