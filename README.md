@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @hoffy123
 - 👋 Hi, I’m Student Name: Menachem  Hoffman
 - 👋 Hi, I’m Student Email: 20219172@students.latrobe.edu.au
-- 👀 I’m interested in software devolpment that will inhance the world around us and assit people to live better lives.
-- 👀 I’m interested in software applicaons on the web and in the futher moblie too
-- 🌱 I’m currently learning infomation techolgy 
+- 👀 I’m interested in software development that will inhance the world around us and assit people to live better lives.
+- 👀 I’m interested in software application on the web and in the futher moblie too
+- 🌱 I’m currently learning information technology - majoring in software development
 - 💞️ I’m looking to collaborate on software that will help businesses and people improve the world around them
 
 <!---
